@@ -1,0 +1,22 @@
+# Pyrogram implimantion 
+pyrogram 
+tgcrypto 
+aiohttp
+
+# Database implimantion
+pymongo
+dnspython
+
+langdetect
+urlextract
+requests
+emojis
+stellagban
+pyromod
+pykeyboard 
+captcha
+apscheduler
+ffmpeg
+python-dotenv
+aiofiles
+pykeyboard
